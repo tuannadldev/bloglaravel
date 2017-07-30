@@ -1,0 +1,5 @@
+git clone url ==> clone
+git add file_name => add tracked
+git commit -m "description commit"==> commit
+git remote add origin url  => push to github with url
+
