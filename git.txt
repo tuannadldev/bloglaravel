@@ -3,3 +3,4 @@ git add file_name => add tracked
 git commit -m "description commit"==> commit
 git remote add origin url  =>remote url for push source to github
 git push -u origin master => push github
+change git
