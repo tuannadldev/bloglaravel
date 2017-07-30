@@ -1,5 +1,5 @@
 git clone url ==> clone
 git add file_name => add tracked
 git commit -m "description commit"==> commit
-git remote add origin url  => push to github with url
-git push -u origin master => push
+git remote add origin url  =>remote url for push source to github
+git push -u origin master => push github
